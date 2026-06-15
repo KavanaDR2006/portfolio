@@ -8,8 +8,7 @@ My personal portfolio website showcasing my skills and projects as a Computer Sc
 - HTML5
 - CSS3
 - JavaScript
-- Python
-
+- 
 ## What's Inside
 
 - Dark/Light mode toggle
