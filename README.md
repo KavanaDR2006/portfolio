@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my skills and projects as a Computer Science student.
 
-**Live Demo**:https://github.com/KavanaDR2006/portfolio
+**Live Demo**:https://Kavanadr2006.github.io/portfolio
 ## Tech Stack
 
 - HTML5
